@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Choc_V1V2"
+	(property "Value" "Choc V1/2"
 		(at 0 9 0)
 		(layer "F.Fab")
 		(hide yes)

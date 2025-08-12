@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "KS-27/33, hot swap")
+	(descr "KS-27/33, hot-swap")
 	(property "Reference" "SW"
 		(at 0 8.2296 0)
 		(unlocked yes)

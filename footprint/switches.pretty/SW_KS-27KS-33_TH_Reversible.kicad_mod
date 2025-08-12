@@ -1,9 +1,9 @@
-(footprint "SW_KS-27KS-33_TH"
+(footprint "SW_KS-27KS-33_TH_Reversible"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "KS-27/33, through hole")
+	(descr "KS-27/33, through hole, reversible")
 	(property "Reference" "SW"
 		(at 0 8.255 0)
 		(layer "F.Fab")
@@ -64,6 +64,28 @@
 		(uuid "3af83abc-034b-4ffd-a599-2854093a01b3")
 	)
 	(fp_rect
+		(start -9.5 -9.5)
+		(end 9.5 9.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "988ab02a-af4f-4de3-96f7-2eab7219f0bf")
+	)
+	(fp_rect
+		(start -7 -7)
+		(end 7 7)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "825c3fc9-08c5-4576-8e2f-71c3abdbe0a6")
+	)
+	(fp_rect
 		(start -7 -7)
 		(end 7 7)
 		(stroke
@@ -81,6 +103,13 @@
 		(layers "F&B.Cu" "*.Mask")
 		(uuid "5c5d59cf-e588-40dc-956e-52cd5192586d")
 	)
+	(pad "" np_thru_hole circle
+		(at 0 0 180)
+		(size 5.1 5.1)
+		(drill 5.1)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "7a3e84ef-9b70-45a5-bca2-4db21c83cfec")
+	)
 	(pad "1" thru_hole circle
 		(at -4.4 4.7 180)
 		(size 2.3 2.3)
@@ -88,6 +117,22 @@
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "068d758f-d2e5-47d9-8773-3595b3d9ee06")
+	)
+	(pad "1" thru_hole circle
+		(at 4.4 4.7 180)
+		(size 2.3 2.3)
+		(drill 1.45)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7d842788-c0fc-4c10-89b5-bc1070872582")
+	)
+	(pad "2" thru_hole circle
+		(at -2.6 5.75 180)
+		(size 2.3 2.3)
+		(drill 1.45)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b7eedf8d-78fc-4e12-b4bb-b48c51be2b90")
 	)
 	(pad "2" thru_hole circle
 		(at 2.6 5.75 180)
