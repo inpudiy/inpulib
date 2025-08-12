@@ -554,7 +554,7 @@
 			)
 		)
 		(property "Description" "Microcontroller dev board, Seeed Studio XIAO nRF52840"
-			(at 0 0 0)
+			(at -0.508 -28.956 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1027,7 +1027,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 1x4 contacts"
-			(at 0 0 0)
+			(at 0 -9.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1227,7 +1227,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 1x5 contacts"
-			(at 0 0 0)
+			(at 0.254 -11.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,7 +1973,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "D"
-			(at 0.508 1.778 0)
+			(at 1.778 1.778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +1982,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at -1.016 -2.794 0)
+			(at 0.254 -2.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2037,7 +2037,7 @@
 		(symbol "LED_Generic_0_1"
 			(polyline
 				(pts
-					(xy -2.54 1.27) (xy -2.54 -1.27)
+					(xy -1.27 1.27) (xy -1.27 -1.27)
 				)
 				(stroke
 					(width 0.254)
@@ -2049,7 +2049,7 @@
 			)
 			(polyline
 				(pts
-					(xy -2.413 1.651) (xy -0.889 3.175) (xy -0.889 2.667) (xy -0.889 3.175) (xy -1.397 3.175)
+					(xy -1.143 1.651) (xy 0.381 3.175) (xy 0.381 2.667) (xy 0.381 3.175) (xy -0.127 3.175)
 				)
 				(stroke
 					(width 0)
@@ -2061,7 +2061,7 @@
 			)
 			(polyline
 				(pts
-					(xy -1.143 1.651) (xy 0.381 3.175) (xy 0.381 2.667)
+					(xy 0.127 1.651) (xy 1.651 3.175) (xy 1.651 2.667)
 				)
 				(stroke
 					(width 0)
@@ -2073,7 +2073,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 0) (xy -2.54 0)
+					(xy 1.27 0) (xy -1.27 0)
 				)
 				(stroke
 					(width 0)
@@ -2085,7 +2085,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -1.27) (xy -2.54 0) (xy 0 1.27) (xy 0 -1.27)
+					(xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27) (xy 1.27 -1.27)
 				)
 				(stroke
 					(width 0.254)
@@ -2097,7 +2097,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0.381 3.175) (xy -0.127 3.175)
+					(xy 1.651 3.175) (xy 1.143 3.175)
 				)
 				(stroke
 					(width 0)
@@ -2110,7 +2110,7 @@
 		)
 		(symbol "LED_Generic_1_1"
 			(pin passive line
-				(at -5.08 0 0)
+				(at -3.81 0 0)
 				(length 2.54)
 				(name "K"
 					(effects
@@ -2128,7 +2128,7 @@
 				)
 			)
 			(pin passive line
-				(at 2.54 0 180)
+				(at 3.81 0 180)
 				(length 2.54)
 				(name "A"
 					(effects
@@ -2775,7 +2775,7 @@
 			)
 		)
 		(property "Description" "Rotary encoder switch, 5-pin, with push button"
-			(at 0 0 0)
+			(at 0.254 -10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
