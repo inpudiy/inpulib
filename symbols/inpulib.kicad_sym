@@ -2156,7 +2156,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "D"
-			(at 2.54 -7.62 0)
+			(at 4.572 6.096 0)
 			(effects
 				(font
 					(size 0.7366 0.7366)
@@ -2164,7 +2164,7 @@
 			)
 		)
 		(property "Value" "SK6812MINI_E"
-			(at 6.35 -6.35 0)
+			(at -1.016 4.318 0)
 			(effects
 				(font
 					(size 0.7366 0.7366)
