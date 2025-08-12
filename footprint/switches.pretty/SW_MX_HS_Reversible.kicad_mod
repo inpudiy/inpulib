@@ -3,8 +3,9 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "MX, hot-swap, reversible")
 	(property "Reference" "SW"
-		(at -5.08 5.5372 0)
+		(at 0 8.128 0)
 		(layer "F.Fab")
 		(uuid "4f8b2a88-0fb0-4fb2-920d-d38b4fc87197")
 		(effects

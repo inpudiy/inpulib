@@ -1,11 +1,11 @@
-(footprint "SW_MX_Reversible"
+(footprint "SW_MX_TH_Reversible"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "MX Solder One Side")
+	(descr "MX, through hole, reversible")
 	(property "Reference" "SW"
-		(at -5.08 5.5626 0)
+		(at 0.0508 8.3312 0)
 		(layer "F.Fab")
 		(uuid "082fd883-bdf3-4b99-bc46-1d7c25bd74b3")
 		(effects
