@@ -61,7 +61,9 @@ Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
 D_1N4448 | Diode 1N4448, DO-35 package | ![D_1N4448](images/symbols/D_1N4448.png) 
 D_1N4448W | Diode 1N4448W, SOD-123 package | ![D_1N4448W](images/symbols/D_1N4448W.png)   
-D_1N4448WS | Diode 1N4448WS, SOD-323 package | ![D_1N4448WS](images/symbols/D_1N4448WS.png) 
+D_1N4448WS | Diode 1N4448WS, SOD-323 package | ![D_1N4448WS](images/symbols/D_1N4448WS.png)
+D_BAV70 | Two Switching Diode in one SOT-23 package| ![D_BAV70](images/symbols/D_BAV70.png)
+IC_SMF05CT1G | 5-Line, Transient Voltage, Suppressor Array | ![IC_SMF05CT1G](images/symbols/IC_SMF05CT1G.png) 
 Conn_01x04 | Generic connector, 4-pin, for OLED display | ![Conn_01x04](images/symbols/Conn_01x04.png)
 Conn_01x05 | Connector, 5-pin, for Nice!View OLED display | ![Conn_01x05](images/symbols/Conn_01x05.png)
 SW_Encoder_EC11| Rotary encoder EC11, 5-pin, with built-in push button | ![Conn_01x05](images/symbols/SW_Encoder_EC11.png)
