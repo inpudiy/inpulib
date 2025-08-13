@@ -1,0 +1,220 @@
+(footprint "SW_TH_BSI-10H"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SPDT, through hole, horizontal, 3 pin, 10x2.5x5.9 mm")
+	(property "Reference" "SW"
+		(at -0.0635 -4.7714 0)
+		(layer "F.Fab")
+		(uuid "d6b40946-a4a6-4d4f-98c1-e7be4224186b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_BSI-10H"
+		(at -0.0635 7.627 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03c77354-e70b-45fc-9a03-fc4035cce31c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c2428266-d0dc-45ea-b659-0cefdf634c4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "142893e6-2631-4c76-a32c-f04e26b7f77b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -3.9918 2.1865)
+		(end 3.9918 2.1895)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "69ca9b32-e71a-4018-a898-15fcbcb2767e")
+	)
+	(fp_line
+		(start -2.9836 2.800359)
+		(end -2.9836 2.185)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4059562-3242-4e43-b054-6c4d32b86190")
+	)
+	(fp_line
+		(start 0.13515 3.185)
+		(end -2.9836 2.800359)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "9b0c02ef-11b8-425a-8cff-7d24a7f8dceb")
+	)
+	(fp_line
+		(start 0.13515 3.6866)
+		(end 0.13515 3.185)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "645c5f7e-489f-432c-bbbe-b9c017755d61")
+	)
+	(fp_line
+		(start 1.81395 3.6866)
+		(end 0.13515 3.6866)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6e74ccc4-293c-44fa-ac80-4fd6b114a92a")
+	)
+	(fp_line
+		(start 1.81395 3.6866)
+		(end 1.81395 3.185)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d30209d0-76cf-48c2-9e72-3d5cc53ecd49")
+	)
+	(fp_line
+		(start 5 2.803359)
+		(end 1.81395 3.185)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "af5b6348-694e-4691-9c68-ef2d32abb134")
+	)
+	(fp_line
+		(start 5 2.803359)
+		(end 5 2.188)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d6f1852f-ed4f-43f5-9ca2-6ff8af26b22b")
+	)
+	(fp_rect
+		(start -5 -2.188)
+		(end 5 2.188)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "4b3d2db0-80b2-4806-89a3-bd8b3386fed5")
+	)
+	(fp_poly
+		(pts
+			(xy -2.24 -2.8714) (xy -2.84 -2.8714) (xy -2.84 -3.4714) (xy -2.24 -3.4714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "User.1")
+		(uuid "383c7202-c0e4-461f-b4ce-cd2b015c98a9")
+	)
+	(fp_poly
+		(pts
+			(xy 0.3 -2.8714) (xy -0.3 -2.8714) (xy -0.3 -3.4714) (xy 0.3 -3.4714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "User.1")
+		(uuid "e9b95662-21f7-4a89-af1f-c3c22d9681f9")
+	)
+	(fp_poly
+		(pts
+			(xy 2.84 -2.8714) (xy 2.24 -2.8714) (xy 2.24 -3.4714) (xy 2.84 -3.4714)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "User.1")
+		(uuid "31d6ad47-1584-4fb1-89fa-0ccd65b88ece")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -3.1714 180)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "e13e1af5-499b-4315-bca6-d3cfb2d6e216")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 -3.1714 180)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "4e6445ee-d3ca-4c90-9a4b-b2534bc87dee")
+	)
+	(pad "3" thru_hole circle
+		(at -2.54 -3.1714 180)
+		(size 1.8 1.8)
+		(drill 1.1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 90)
+		(uuid "581a2017-f91f-4fe0-9399-513c72878227")
+	)
+	(embedded_fonts no)
+	(model "/home/miwayho/Downloads/Telegram Desktop/BSI-10h.step"
+		(offset
+			(xyz 0 29.5 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 3 -0 -180)
+		)
+	)
+)

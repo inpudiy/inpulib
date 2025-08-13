@@ -1,0 +1,147 @@
+(footprint "SW_SMD_MSK12C02"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SPDT, SMD, 7 pin, 6.6x2.7x1.4 mm")
+	(property "Reference" "SW"
+		(at 0 -3.175 0)
+		(layer "F.Fab")
+		(uuid "d6b8dbc9-05ab-48a8-9bd1-25679391ff8d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MSK12C0"
+		(at 0 4.357 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e466df10-76ed-4d56-b2a9-c9d55935341c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9019276-a437-41dd-aac8-088f061b81cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "757f6154-2bde-4c14-baee-87c7ce088348")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy -1.058604 0.684971) (xy -1.089008 0.5715) (xy -1.147745 0.469765) (xy -1.230811 0.386699) (xy -1.332546 0.327962)
+			(xy -1.446017 0.297558) (xy -1.563491 0.297558) (xy -1.676962 0.327962) (xy -1.778697 0.386699) (xy -1.861763 0.469765)
+			(xy -1.9205 0.5715) (xy -1.950904 0.684971) (xy -1.950904 0.802445) (xy -1.9205 0.915916) (xy -1.861763 1.017651)
+			(xy -1.778697 1.100717) (xy -1.676962 1.159454) (xy -1.563491 1.189858) (xy -1.446017 1.189858) (xy -1.332546 1.159454)
+			(xy -1.230811 1.100717) (xy -1.147745 1.017651) (xy -1.089008 0.915916) (xy -1.058604 0.802445)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "Edge.Cuts")
+		(uuid "72367267-80a5-4c03-8f5f-b3228eb65793")
+	)
+	(fp_poly
+		(pts
+			(xy 1.941396 0.684971) (xy 1.910992 0.5715) (xy 1.852255 0.469765) (xy 1.769189 0.386699) (xy 1.667454 0.327962)
+			(xy 1.553983 0.297558) (xy 1.436509 0.297558) (xy 1.323038 0.327962) (xy 1.221303 0.386699) (xy 1.138237 0.469765)
+			(xy 1.0795 0.5715) (xy 1.049096 0.684971) (xy 1.049096 0.802445) (xy 1.0795 0.915916) (xy 1.138237 1.017651)
+			(xy 1.221303 1.100717) (xy 1.323038 1.159454) (xy 1.436509 1.189858) (xy 1.553983 1.189858) (xy 1.667454 1.159454)
+			(xy 1.769189 1.100717) (xy 1.852255 1.017651) (xy 1.910992 0.915916) (xy 1.941396 0.802445)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "Edge.Cuts")
+		(uuid "d4e94f0b-b5a4-46df-9439-b06a7c4146ec")
+	)
+	(fp_rect
+		(start -3.3 -0.506292)
+		(end 3.3 2.193708)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "cffff244-604f-46a3-8a6e-1c4c8b0715bc")
+	)
+	(pad "1" smd roundrect
+		(at -2.254754 -1.506292 90)
+		(size 1.524 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1666666667)
+		(uuid "0f3c364a-8f17-4c14-96e2-5ea34e7c12eb")
+	)
+	(pad "2" smd roundrect
+		(at 0.745246 -1.506292 90)
+		(size 1.524 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1666666667)
+		(uuid "799edd38-77fc-416e-b464-eecc7519aab9")
+	)
+	(pad "3" smd roundrect
+		(at 2.245246 -1.506292 90)
+		(size 1.524 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1666666667)
+		(uuid "13b28cc8-d5ae-477b-bf95-5d5ad8c67c1a")
+	)
+	(pad "4" smd roundrect
+		(at -3.604754 -0.406292 180)
+		(size 1.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1428571429)
+		(uuid "2736d62e-2c0d-4cfc-baa6-0c4eb1ed6f6f")
+	)
+	(pad "4" smd roundrect
+		(at -3.604754 1.893708 180)
+		(size 1.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1428571429)
+		(uuid "9c20e104-aacc-4e1f-9b7b-580553db6afd")
+	)
+	(pad "4" smd roundrect
+		(at 3.595246 -0.406292 180)
+		(size 1.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1428571429)
+		(uuid "7a312750-c89d-4ffa-b3d3-ce4793a18e80")
+	)
+	(pad "4" smd roundrect
+		(at 3.595246 1.893708 180)
+		(size 1.2 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1428571429)
+		(uuid "eebf6603-13d9-406b-ab6e-31b44824586a")
+	)
+	(embedded_fonts no)
+)
