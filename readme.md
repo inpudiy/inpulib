@@ -1,6 +1,6 @@
 # Inpulib
 
-![Image](images/Image.png)
+![Image](images/preview.png)
 
 This repository is a **DIY Mechanical Keyboard KiCad Library** created for hobbyists, custom keyboard builders, and electronics designers.
 It provides a complete set of **schematic symbols** and **footprint libraries** for designing mechanical keyboard PCBs in KiCad.
@@ -33,13 +33,27 @@ SW_Choc_V1V2_TH | Choc V1/2, through hole, one side | ![SW_Choc_V1V2_TH](images/
 SW_Choc_V1V2_TH_Reversible | Choc V1/2, through hole, reversible | ![SW_Choc_V1V2_TH_Reversible](images/footprint/swtiches/SW_Choc_V1V2_TH_Reversible.png)
 SW_Hi-Tek_725_TH | Hi-Tek 725, through hole | ![SW_Hi-Tek_725_TH](images/footprint/swtiches/SW_Hi-Tek_725_TH.png)
 SW_KS-27KS-33_HS | KS-27/33, hot-swap | ![SW_KS-27KS-33_HS](images/footprint/swtiches/SW_KS-27KS-33_HS.png)
-SW_KS-27KS-33_HS_Reversible | KS-27/33, hot-swap, reversible{FIX!!!} | ![SW_KS-27KS-33_HS](images/footprint/swtiches/)
+SW_KS-27KS-33_HS_Reversible | KS-27/33, hot-swap, reversible | ![SW_KS-27KS-33_HS](images/footprint/swtiches/SW_KS-27KS-33_HS_Reversible.png)
 SW_KS-27KS-33_TH | KS-27/33, through hole | ![SW_KS-27KS-33_TH](images/footprint/swtiches/SW_KS-27KS-33_TH.png)
 SW_KS-27KS-33_TH_Reversible | KS-27/33, through hole, reversible | ![SW_KS-27KS-33_TH_Reversible](images/footprint/swtiches/SW_KS-27KS-33_TH_Reversible.png)
 SW_MX_HS | MX, hot-swap, one side | ![SW_MX_HS](images/footprint/swtiches/SW_MX_HS.png)
 SW_MX_HS_Reversible | MX, hot-swap, reversible | ![SW_MX_HS_Reversible](images/footprint/swtiches/SW_MX_HS_Reversible.png)
 SW_MX_TH | MX, through hole, one side | ![SW_MX_TH](images/footprint/swtiches/SW_MX_TH.png)
 SW_MX_TH_Reversible | MX, through hole, reversible | ![SW_MX_TH_Reversible](images/footprint/swtiches/SW_MX_TH_Reversible.png)
+
+### Buttons pretty
+
+Name   | Description/notes| Preview  |
+------------------------|--------------------------------------------|-------------------------------
+SW_SMD_EVQP7C01K | SPST, SMD, 4 pin, 3.5x2.9x1.35 mm | ![SW_SMD_EVQP7C01K](images/footprint/buttons/SW_SMD_EVQP7C01K.png)
+SW_SMD_L4_W3_H1.5 | SPST, SMD, 2 pin, 4x3x1.5 mm| ![SW_SMD_L4_W3_H1.5](images/footprint/buttons/SW_SMD_L4_W3_H1.png)
+SW_SMD_MSK12C02 | SPDT, SMD, 7 pin, 6.6x2.7x1.4 mm | ![SW_SMD_MSK12C02](images/footprint/buttons/SW_SMD_MSK12C02.png)
+SW_SMD_TS-1289VE-4 | SPST, SMD, 4 pin, 3.5x4.7x1.6 mm | ![SW_SMD_TS-1289VE-4](images/footprint/buttons/SW_SMD_TS-1289VE-4.png)
+SW_TH_1TS002A | SPDT, through hole, 2 pin, 6x3.5x4.3 mm | ![SW_TH_1TS002A](images/footprint/buttons/SW_TH_1TS002A.png)
+SW_TH_BSI-10H | SPDT, through hole, horizontal, 3 pin, 10x2.5x5.9 mm | ![SW_TH_BSI-10H](images/footprint/buttons/SW_TH_BSI-10H.png)
+SW_TH_EC11E | Encoder, through hole | ![SW_TH_EC11E](images/footprint/buttons/SW_TH_EC11E.png)
+SW_TH_SKHLLBA010 | SPDT, through hole, horizontal, 3 pin, 7.3x3.6x4.3 mm | ![SW_TH_SKHLLBA010](images/footprint/buttons/SW_TH_SKHLLBA010.png)
+
 
 ## Symbols
 
