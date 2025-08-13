@@ -1,19 +1,8 @@
 ## Footprint
 
-**Naming formula:**
-```
-SW_<Type>*<Mount>*<Side>
-```
+### Swtiches pretty
 
-**`<Type>`** – switch type
-**`<Mount>`** – mounting method  
-- `HS` – HotSwap  
-- `TH` – Through-hole (solder)  
-
-**`<Side>`** – board mounting side:  
-- `Reversible` – supports mounting from both sides
-
-Footpint   | Description/notes| Preview  |
+Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
 SW_Alps_TH | Alps/Matias, through hole | ![SW_Alps_TH](images/footprint/swtiches/SW_Alps_TH.png)
 SW_B3G-S_TH | B3G-S, through hole | ![SW_Alps_TH](images/footprint/swtiches/SW_B3G-S_TH.png)
@@ -39,7 +28,7 @@ SW_MX_TH_Reversible | MX, through hole, reversible | ![SW_MX_TH_Reversible](imag
 
 ## Symbols
 
-Symbol   | Description/notes| Preview  |
+Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
 D_1N4448 | Diode 1N4448, DO-35 package | ![D_1N4448](images/symbols/D_1N4448.png) 
 D_1N4448W | Diode 1N4448W, SOD-123 package | ![D_1N4448W](images/symbols/D_1N4448W.png)   
