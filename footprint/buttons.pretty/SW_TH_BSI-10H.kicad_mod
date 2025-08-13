@@ -206,15 +206,4 @@
 		(uuid "581a2017-f91f-4fe0-9399-513c72878227")
 	)
 	(embedded_fonts no)
-	(model "/home/miwayho/Downloads/Telegram Desktop/BSI-10h.step"
-		(offset
-			(xyz 0 29.5 2.5)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 3 -0 -180)
-		)
-	)
 )
