@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Alps/Matias, through hole, one side")
+	(descr "Alps/Matias, through hole")
 	(property "Reference" "SW"
 		(at 0 5.3848 0)
 		(layer "F.Fab")

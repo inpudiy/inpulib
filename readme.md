@@ -1,9 +1,40 @@
-## Footrpint
+## Footprint
+
+**Naming formula:**
+```
+SW_<Type>*<Mount>*<Side>
+```
+
+**`<Type>`** – switch type
+**`<Mount>`** – mounting method  
+- `HS` – HotSwap  
+- `TH` – Through-hole (solder)  
+
+**`<Side>`** – board mounting side:  
+- `Reversible` – supports mounting from both sides
 
 Footpint   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-SW_Alps_TH | Alps/Matis | ![SW_Alps_TH](images/footprint/swtiches/SW_Alps_TH.png)
-SW_B3G-S_TH | B3G-S | ![SW_Alps_TH](images/footprint/swtiches/SW_B3G-S_TH.png) 
+SW_Alps_TH | Alps/Matias, through hole | ![SW_Alps_TH](images/footprint/swtiches/SW_Alps_TH.png)
+SW_B3G-S_TH | B3G-S, through hole | ![SW_Alps_TH](images/footprint/swtiches/SW_B3G-S_TH.png)
+SW_CPG1316 | CPG1316, smd, one side | ![CPG1316](images/footprint/swtiches/SW_CPG1316.png)
+SW_CPG1316_Reversible | CPG1316, smd, reversible | ![SW_CPG1316_Reversible](images/footprint/swtiches/SW_CPG1316_Reversible.png)
+SW_Choc_Mini_TH | Choc Mini, through hole, one side | ![CPG1316](images/footprint/swtiches/SW_Choc_Mini_TH.png)
+SW_Choc_V1V2_HS | Choc V1/2, hot-swap, one side | ![SW_Choc_V1V2_HS](images/footprint/swtiches/SW_Choc_V1V2_HS.png)
+SW_Choc_V1V2_HS_Reversible | Choc V1/2, hot-swap, one side | ![SW_Choc_V1V2_HS_Reversible](images/footprint/swtiches/SW_Choc_V1V2_HS_Reversible.png)
+SW_Choc_V1V2_TH | Choc V1/2, through hole, one side | ![SW_Choc_V1V2_TH](images/footprint/swtiches/SW_Choc_V1V2_TH.png)
+SW_Choc_V1V2_TH_Reversible | Choc V1/2, through hole, reversible | ![SW_Choc_V1V2_TH_Reversible](images/footprint/swtiches/SW_Choc_V1V2_TH_Reversible.png)
+SW_Hi-Tek_725_TH | Hi-Tek 725, through hole | ![SW_Hi-Tek_725_TH](images/footprint/swtiches/SW_Hi-Tek_725_TH.png)
+SW_KS-27KS-33_HS | KS-27/33, hot-swap | ![SW_KS-27KS-33_HS](images/footprint/swtiches/SW_KS-27KS-33_HS.png)
+SW_KS-27KS-33_HS_Reversible | KS-27/33, hot-swap, reversible{FIX!!!} | ![SW_KS-27KS-33_HS](images/footprint/swtiches/)
+SW_KS-27KS-33_TH | KS-27/33, through hole | ![SW_KS-27KS-33_TH](images/footprint/swtiches/SW_KS-27KS-33_TH.png)
+SW_KS-27KS-33_TH_Reversible | KS-27/33, through hole, reversible | ![SW_KS-27KS-33_TH_Reversible](images/footprint/swtiches/SW_KS-27KS-33_TH_Reversible.png)
+SW_MX_HS | MX, hot-swap, one side | ![SW_MX_HS](images/footprint/swtiches/SW_MX_HS.png)
+SW_MX_HS_Reversible | MX, hot-swap, reversible | ![SW_MX_HS_Reversible](images/footprint/swtiches/SW_MX_HS_Reversible.png)
+SW_MX_TH | MX, through hole, one side | ![SW_MX_TH](images/footprint/swtiches/SW_MX_TH.png)
+SW_MX_TH_Reversible | MX, through hole, reversible | ![SW_MX_TH_Reversible](images/footprint/swtiches/SW_MX_TH_Reversible.png)
+
+
 
 
 ## Symbols
