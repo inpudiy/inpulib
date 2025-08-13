@@ -1,3 +1,19 @@
+# Inpulib
+
+This repository is a **DIY Mechanical Keyboard KiCad Library** created for hobbyists, custom keyboard builders, and electronics designers.
+It provides a complete set of **schematic symbols** and **footprint libraries** for designing mechanical keyboard PCBs in KiCad.
+
+The library covers the most commonly used components in keyboard design:
+
+* **Switches** – MX, Kailh Choc, Alps, and other profiles
+* **Momentary buttons, rotary encoders, and toggle switches** – for matrix inputs, settings, and on/off control
+* **Controllers** – Pro Micro and other compatible boards
+* **Connectors** – for OLED displays, battery connections, TRRS/Audio jacks, and other peripherals
+* **Diodes & Resistors** – standard components for matrix wiring and signal conditioning
+* **LEDs** – including generic and addressable RGB
+
+With these libraries, you can quickly integrate standard parts into your schematic and PCB layout, saving time and ensuring compatibility with popular keyboard components.
+
 ## Footprint
 
 ### Swtiches pretty
@@ -22,9 +38,6 @@ SW_MX_HS | MX, hot-swap, one side | ![SW_MX_HS](images/footprint/swtiches/SW_MX_
 SW_MX_HS_Reversible | MX, hot-swap, reversible | ![SW_MX_HS_Reversible](images/footprint/swtiches/SW_MX_HS_Reversible.png)
 SW_MX_TH | MX, through hole, one side | ![SW_MX_TH](images/footprint/swtiches/SW_MX_TH.png)
 SW_MX_TH_Reversible | MX, through hole, reversible | ![SW_MX_TH_Reversible](images/footprint/swtiches/SW_MX_TH_Reversible.png)
-
-
-
 
 ## Symbols
 
