@@ -54,6 +54,16 @@ SW_TH_BSI-10H | SPDT, through hole, horizontal, 3 pin, 10x2.5x5.9 mm | ![SW_TH_B
 SW_TH_EC11E | Encoder, through hole | ![SW_TH_EC11E](images/footprint/buttons/SW_TH_EC11E.png)
 SW_TH_SKHLLBA010 | SPDT, through hole, horizontal, 3 pin, 7.3x3.6x4.3 mm | ![SW_TH_SKHLLBA010](images/footprint/buttons/SW_TH_SKHLLBA010.png)
 
+### Diode pretty
+
+Name   | Description/notes| Preview  |
+------------------------|--------------------------------------------|-------------------------------
+D_BAV70 | ADD INFO | ![D_BAV70](images/footprint/)
+D_DO-35 | ADD INFO | ![D_DO-35](images/footprint/)
+D_SOD-123 | ADD INFO | ![D_SOD-123](images/footprint/)
+D_SOD-323 | ADD INFO | ![D_SOD-323](images/footprint/)
+IC_SMF05CT1G | ADD INFO | ![IC_SMF05CT1G](images/footprint/)
+
 
 ## Symbols
 
