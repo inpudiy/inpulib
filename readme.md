@@ -1,3 +1,11 @@
+## Footrpint
+
+Footpint   | Description/notes| Preview  |
+------------------------|--------------------------------------------|-------------------------------
+SW_Alps_TH | Alps/Matis | ![SW_Alps_TH](images/footprint/swtiches/SW_Alps_TH.png)
+SW_B3G-S_TH | B3G-S | ![SW_Alps_TH](images/footprint/swtiches/SW_B3G-S_TH.png) 
+
+
 ## Symbols
 
 Symbol   | Description/notes| Preview  |
