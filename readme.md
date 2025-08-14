@@ -58,12 +58,11 @@ SW_TH_SKHLLBA010 | SPDT, through hole, horizontal, 3 pin, 7.3x3.6x4.3 mm | ![SW_
 
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-D_BAV70 | ADD INFO | ![D_BAV70](images/footprint/)
 D_DO-35 | ADD INFO | ![D_DO-35](images/footprint/)
 D_SOD-123 | ADD INFO | ![D_SOD-123](images/footprint/)
 D_SOD-323 | ADD INFO | ![D_SOD-323](images/footprint/)
+D_BAV70 | ADD INFO | ![D_BAV70](images/footprint/)
 IC_SMF05CT1G | ADD INFO | ![IC_SMF05CT1G](images/footprint/)
-
 
 ## Symbols
 
@@ -80,7 +79,7 @@ SW_Encoder_EC11| Rotary encoder EC11, 5-pin, with built-in push button | ![Conn_
 GND | Global ground symbol | ![GND](images/symbols/GND.png)
 LED_Generic| Generic LED, 2-pin, through-hole or surface mount | ![GND](images/symbols/LED_Generic.png)
 Jack_Audio_MJ4PP9 | 4-pin connector for split keyboard halves cable with jack | ![Jack_Audio_MJ4PP9](images/symbols/Jack_Audio_MJ4PP9.png)
-Board_ProMicro | Microcontroller dev board compatible with Nice!Nano, Super Mini NRF, Arduino Pro Micro, Elite-C, RP2040 Pro Micro | ![Board_ProMicro](images/symbols/Board_ProMicro.png)
+U_ProMicro_nRF52840 | Microcontroller dev board compatible with Nice!Nano, Super Mini NRF, Arduino Pro Micro, Elite-C, RP2040 Pro Micro | ![U_ProMicro_nRF52840](images/symbols/U_ProMicro_nRF52840.png)
 Board_XIAO_nRF52840 | Microcontroller dev board Seeed Studio XIAO nRF52840 | ![Board_ProMicro](images/symbols/Board_XIAO_nRF52840.png)
 PWR_Flag | Power source flag for ERC | ![PWR_Flag](images/symbols/PWR_Flag.png)
 R_Generic | Generic resistor, 2-pin, through-hole or surface mount | ![R_Generic](images/symbols/R_Generic.png)
