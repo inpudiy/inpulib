@@ -17,10 +17,10 @@ With these libraries, you can quickly integrate standard parts into your schemat
 
 ## Footprint
 
-### Swtiches pretty
+### swtiches pretty
 
 Name   | Description/notes| Preview  |
-------------------------|--------------------------------------------|-------------------------------
+-------|-----------------------------|-------
 SW_Alps_TH | Alps/Matias switch, through hole | ![SW_Alps_TH](images/footprint/swtiches/SW_Alps_TH.png)
 SW_B3G-S_TH | B3G-S switch, through hole | ![SW_B3G-S_TH](images/footprint/swtiches/SW_B3G-S_TH.png)
 SW_CPG1316 | CPG1316 switch, SMD, one side | ![SW_CPG1316](images/footprint/swtiches/SW_CPG1316.png)
@@ -42,7 +42,7 @@ SW_MX_TH_Reversible | MX switch, through hole, reversible | ![SW_MX_TH_Reversibl
 
 ### MCU
 Name   | Description/notes| Preview  |
-------------------------|--------------------------------------------|-------------------------------
+-------|-----------------------------|-------
 U_ProMicro_RP2040_TH | Pro Micro RP2040 board, through hole | ![U_ProMicro_RP2040_TH](images/footprint/mcu/U_ProMicro_RP2040_TH.png)
 U_ProMicro_nRF52840_MidMount | Pro Micro nRF52840 board, mid-mount SMD | ![U_ProMicro_nRF52840_MidMount](images/footprint/mcu/U_ProMicro_nRF52840_MidMount.png)
 U_ProMicro_nRF52840_SMD | Pro Micro nRF52840 board, SMD | ![U_ProMicro_nRF52840_SMD](images/footprint/mcu/U_ProMicro_nRF52840_SMD.png)
@@ -52,10 +52,10 @@ U_XIAO_nRF52840 | Seeed Studio XIAO nRF52840 board, SMD | ![U_XIAO_nRF52840](ima
 U_XIAO_nRF52840_Reversible | Seeed Studio XIAO nRF52840 board, SMD, reversible | ![U_XIAO_nRF52840_Reversible](images/footprint/mcu/U_XIAO_nRF52840_Reversible.png)
 U_Zero_RP2040 | RP2040-Zero board, SMD | ![U_Zero_RP2040](images/footprint/mcu/U_Zero_RP2040.png)
 
-### Buttons pretty
+### buttons pretty
 
 Name   | Description/notes| Preview  |
-------------------------|--------------------------------------------|-------------------------------
+-------|-----------------------------|-------
 SW_SMD_EVQP7C01K | SPST tactile switch, SMD, 4 pins, 3.5×2.9×1.35 mm | ![SW_SMD_EVQP7C01K](images/footprint/buttons/SW_SMD_EVQP7C01K.png)
 SW_SMD_L4_W3_H1.5 | SPST tactile switch, SMD, 2 pins, 4×3×1.5 mm | ![SW_SMD_L4_W3_H1.5](images/footprint/buttons/SW_SMD_L4_W3_H1.png)
 SW_SMD_MSK12C02 | SPDT slide switch, SMD, 7 pins, 6.6×2.7×1.4 mm | ![SW_SMD_MSK12C02](images/footprint/buttons/SW_SMD_MSK12C02.png)
@@ -65,20 +65,30 @@ SW_TH_BSI-10H | SPDT slide switch, through hole, horizontal, 3 pins, 10×2.5×5.
 SW_TH_EC11E | Rotary encoder EC11E, through hole, with push button | ![SW_TH_EC11E](images/footprint/buttons/SW_TH_EC11E.png)
 SW_TH_SKHLLBA010 | SPDT slide switch, through hole, horizontal, 3 pins, 7.3×3.6×4.3 mm | ![SW_TH_SKHLLBA010](images/footprint/buttons/SW_TH_SKHLLBA010.png)
 
-### Diode pretty
+### diode pretty
 
 Name   | Description/notes| Preview  |
-------------------------|--------------------------------------------|-------------------------------
+-------|-----------------------------|-------
 D_BAV70 | Dual switching diode BAV70, SOT-23 package, SMD | ![D_BAV70](images/footprint/diode/D_BAV70.png)
 D_DO-35 | General-purpose diode, DO-35 package, through hole | ![D_DO-35](images/footprint/diode/D_DO-35.png)
 D_SOD-123 | General-purpose diode, SOD-123 package, SMD | ![D_SOD-123](images/footprint/diode/D_SOD-123.png)
 D_SOD-323 | General-purpose diode, SOD-323 package, SMD | ![D_SOD-323](images/footprint/diode/D_SOD-323.png)
 IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, SMD | ![IC_SMF05CT1G](images/footprint/diode/IC_SMF05CT1G.png)
 
-## Symbols
+
+## connectors pretty
 
 Name   | Description/notes| Preview  |
-------------------------|--------------------------------------------|-------------------------------
+-------|-----------------------------|-------
+J_01x04_TH | Generic connector, single row, 1×4 contacts | ![J_01x04_TH](images/footprint)
+J_01x05_TH | Generic connector, single row, 1×5 contacts | ![J_01x05_TH ](images/footprint)
+J_MJ-4PP-9_TH | 4-pin jack, through-hole, TRRS compatible | ![J_MJ-4PP-9_TH](images/footprint)
+J_MJ-4PP-9_TH_Reversible | 4-pin jack, through-hole, Reversible, TRRS compatible | ![J_MJ-4PP-9_TH_Reversible](images/footprint)
+
+## symbols pretty
+
+Name   | Description/notes| Preview  |
+-------|-----------------------------|-------
 Conn_01x04 | Generic connector, single row, 1×4 contacts | ![Conn_01x04](images/symbols/Conn_01x04.png)
 Conn_01x05 | Generic connector, single row, 1×5 contacts | ![Conn_01x05](images/symbols/Conn_01x05.png)
 D_1N4448 | High-speed switching diode 1N4448, DO-35 package, through hole, 100 V, 0.15 A | ![D_1N4448](images/symbols/D_1N4448.png)

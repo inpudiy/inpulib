@@ -5,10 +5,9 @@
 	(layer "F.Cu")
 	(descr "RP2040-Zero board, сastellated mounting")
 	(property "Reference" "U"
-		(at 10.16 -13.327 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "5f10198f-c75c-434a-92c0-fd76bc416b44")
 		(effects
 			(font

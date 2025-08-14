@@ -5,10 +5,9 @@
 	(layer "F.Cu")
 	(descr "Pro Micro RP2040 board, through hole")
 	(property "Reference" "U"
-		(at 8.89 -6.46 0)
+		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(hide yes)
 		(uuid "7ff3df6d-490c-49d7-9ab0-d6db096e2061")
 		(effects
 			(font
