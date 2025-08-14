@@ -56,14 +56,14 @@ U_Zero_RP2040 | RP2040-Zero board, SMD | ![U_Zero_RP2040](images/footprint/mcu/U
 
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-SW_SMD_EVQP7C01K | SPST tactile switch, SMD, 4 pins, 3.5×2.9×1.35 mm |
-SW_SMD_L4_W3_H1.5 | SPST tactile switch, SMD, 2 pins, 4×3×1.5 mm |
-SW_SMD_MSK12C02 | SPDT slide switch, SMD, 7 pins, 6.6×2.7×1.4 mm |
-SW_SMD_TS-1289VE-4 | SPST tactile switch, SMD, 4 pins, 3.5×4.7×1.6 mm |
-SW_TH_1TS002A | SPDT slide switch, through hole, 2 pins, 6×3.5×4.3 mm |
-SW_TH_BSI-10H | SPDT slide switch, through hole, horizontal, 3 pins, 10×2.5×5.9 mm |
-SW_TH_EC11E | Rotary encoder EC11E, through hole, with push button |
-SW_TH_SKHLLBA010 | SPDT slide switch, through hole, horizontal, 3 pins, 7.3×3.6×4.3 mm |
+SW_SMD_EVQP7C01K | SPST tactile switch, SMD, 4 pins, 3.5×2.9×1.35 mm | ![SW_SMD_EVQP7C01K](images/footprint/buttons/SW_SMD_EVQP7C01K.png)
+SW_SMD_L4_W3_H1.5 | SPST tactile switch, SMD, 2 pins, 4×3×1.5 mm | ![SW_SMD_L4_W3_H1.5](images/footprint/buttons/SW_SMD_L4_W3_H1.png)
+SW_SMD_MSK12C02 | SPDT slide switch, SMD, 7 pins, 6.6×2.7×1.4 mm | ![SW_SMD_MSK12C02](images/footprint/buttons/SW_SMD_MSK12C02.png)
+SW_SMD_TS-1289VE-4 | SPST tactile switch, SMD, 4 pins, 3.5×4.7×1.6 mm | ![SW_SMD_TS-1289VE-4](images/footprint/buttons/SW_SMD_TS-1289VE-4.png)
+SW_TH_1TS002A | SPDT slide switch, through hole, 2 pins, 6×3.5×4.3 mm | ![SW_TH_1TS002A](images/footprint/buttons/SW_TH_1TS002A.png)
+SW_TH_BSI-10H | SPDT slide switch, through hole, horizontal, 3 pins, 10×2.5×5.9 mm | ![SW_TH_BSI-10H](images/footprint/buttons/SW_TH_BSI-10H.png)
+SW_TH_EC11E | Rotary encoder EC11E, through hole, with push button | ![SW_TH_EC11E](images/footprint/buttons/SW_TH_EC11E.png)
+SW_TH_SKHLLBA010 | SPDT slide switch, through hole, horizontal, 3 pins, 7.3×3.6×4.3 mm | ![SW_TH_SKHLLBA010](images/footprint/buttons/SW_TH_SKHLLBA010.png)
 
 ### Diode pretty
 
