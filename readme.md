@@ -70,11 +70,11 @@ SW_TH_SKHLLBA010 | SPDT slide switch, through hole, horizontal, 3 pins, 7.3×3.6
 
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-D_BAV70 | Dual switching diode BAV70, SOT-23 package, SMD |
-D_DO-35 | General-purpose diode, DO-35 package, through hole |
-D_SOD-123 | General-purpose diode, SOD-123 package, SMD |
-D_SOD-323 | General-purpose diode, SOD-323 package, SMD |
-IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, SMD |
+D_BAV70 | Dual switching diode BAV70, SOT-23 package, SMD | ![D_BAV70](images/footprint/diode/D_BAV70.png)
+D_DO-35 | General-purpose diode, DO-35 package, through hole | ![D_DO-35](images/footprint/diode/D_DO-35.png)
+D_SOD-123 | General-purpose diode, SOD-123 package, SMD | ![D_SOD-123](images/footprint/diode/D_SOD-123.png)
+D_SOD-323 | General-purpose diode, SOD-323 package, SMD | ![D_SOD-323](images/footprint/diode/D_SOD-323.png)
+IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, SMD | ![IC_SMF05CT1G](images/footprint/diode/IC_SMF05CT1G.png)
 
 ## Symbols
 
