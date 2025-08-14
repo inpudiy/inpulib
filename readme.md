@@ -14,7 +14,7 @@ The library covers the most commonly used components in keyboard design:
 * **Diodes** – standard components for matrix wiring
 * **LEDs** – including generic and addressable RGB
 
-With these libraries, you can quickly integrate standard parts into your schematic and PCB layout, saving time and ensuring compatibility with popular keyboard components.
+With these libraries, you can quickly integrate standard parts into your schematic and PCB layout, saving time and ensuring compatibility with popular keyboard components. 
 
 ## Footprint
 
@@ -22,24 +22,24 @@ With these libraries, you can quickly integrate standard parts into your schemat
 
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-SW_Alps_TH | Alps/Matias switch, through hole |
-SW_B3G-S_TH | B3G-S switch, through hole |
-SW_CPG1316 | CPG1316 switch, SMD, one side |
-SW_CPG1316_Reversible | CPG1316 switch, SMD, reversible |
-SW_Choc_Mini_TH | Choc Mini switch, through hole, one side |
-SW_Choc_V1V2_HS | Choc V1/V2 switch, hot-swap, one side |
-SW_Choc_V1V2_HS_Reversible | Choc V1/V2 switch, hot-swap, reversible |
-SW_Choc_V1V2_TH | Choc V1/V2 switch, through hole, one side |
-SW_Choc_V1V2_TH_Reversible | Choc V1/V2 switch, through hole, reversible |
-SW_Hi-Tek_725_TH | Hi-Tek 725 switch, through hole |
-SW_KS-27KS-33_HS | KS-27/33 switch, hot-swap |
-SW_KS-27KS-33_HS_Reversible | KS-27/33 switch, hot-swap, reversible |
-SW_KS-27KS-33_TH | KS-27/33 switch, through hole |
-SW_KS-27KS-33_TH_Reversible | KS-27/33 switch, through hole, reversible |
-SW_MX_HS | MX switch, hot-swap, one side |
-SW_MX_HS_Reversible | MX switch, hot-swap, reversible |
-SW_MX_TH | MX switch, through hole, one side |
-SW_MX_TH_Reversible | MX switch, through hole, reversible |
+SW_Alps_TH | Alps/Matias switch, through hole | ![SW_Alps_TH](images/footprint/swtiches/SW_Alps_TH.png)
+SW_B3G-S_TH | B3G-S switch, through hole | ![SW_B3G-S_TH](images/footprint/swtiches/SW_B3G-S_TH.png)
+SW_CPG1316 | CPG1316 switch, SMD, one side | ![SW_CPG1316](images/footprint/swtiches/SW_CPG1316.png)
+SW_CPG1316_Reversible | CPG1316 switch, SMD, reversible | ![SW_CPG1316_Reversible](images/footprint/swtiches/SW_CPG1316_Reversible.png)
+SW_Choc_Mini_TH | Choc Mini switch, through hole, one side | ![SW_Choc_Mini_TH](images/footprint/swtiches/SW_Choc_Mini_TH.png)
+SW_Choc_V1V2_HS | Choc V1/V2 switch, hot-swap, one side | ![SW_Choc_V1V2_HS](images/footprint/swtiches/SW_Choc_V1V2_HS.png)
+SW_Choc_V1V2_HS_Reversible | Choc V1/V2 switch, hot-swap, reversible | ![SW_Choc_V1V2_HS_Reversible](images/footprint/swtiches/SW_Choc_V1V2_HS_Reversible.png)
+SW_Choc_V1V2_TH | Choc V1/V2 switch, through hole, one side | ![SW_Choc_V1V2_TH](images/footprint/swtiches/SW_Choc_V1V2_TH.png)
+SW_Choc_V1V2_TH_Reversible | Choc V1/V2 switch, through hole, reversible | ![SW_Choc_V1V2_TH_Reversible](images/footprint/swtiches/SW_Choc_V1V2_TH_Reversible.png)
+SW_Hi-Tek_725_TH | Hi-Tek 725 switch, through hole | ![SW_Hi-Tek_725_TH](images/footprint/swtiches/SW_Hi-Tek_725_TH.png)
+SW_KS-27KS-33_HS | KS-27/33 switch, hot-swap | ![SW_KS-27KS-33_HS](images/footprint/swtiches/SW_KS-27KS-33_HS.png)
+SW_KS-27KS-33_HS_Reversible | KS-27/33 switch, hot-swap, reversible | ![SW_KS-27KS-33_HS_Reversible](images/footprint/swtiches/SW_KS-27KS-33_HS_Reversible.png)
+SW_KS-27KS-33_TH | KS-27/33 switch, through hole | ![SW_KS-27KS-33_TH](images/footprint/swtiches/SW_KS-27KS-33_TH.png)
+SW_KS-27KS-33_TH_Reversible | KS-27/33 switch, through hole, reversible | ![SW_KS-27KS-33_TH_Reversible](images/footprint/swtiches/SW_KS-27KS-33_TH_Reversible.png)
+SW_MX_HS | MX switch, hot-swap, one side | ![SW_MX_HS](images/footprint/swtiches/SW_MX_HS.png)
+SW_MX_HS_Reversible | MX switch, hot-swap, reversible | ![SW_MX_HS_Reversible](images/footprint/swtiches/SW_MX_HS_Reversible.png)
+SW_MX_TH | MX switch, through hole, one side | ![SW_MX_TH](images/footprint/swtiches/SW_MX_TH.png)
+SW_MX_TH_Reversible | MX switch, through hole, reversible | ![SW_MX_TH_Reversible](images/footprint/swtiches/SW_MX_TH_Reversible.png)
 
 ### MCU
 Name   | Description/notes| Preview  |
