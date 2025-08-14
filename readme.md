@@ -80,10 +80,10 @@ IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, SMD | ![IC_SMF05CT1G
 
 Name   | Description/notes| Preview  |
 -------|-----------------------------|-------
-J_01x04_TH | Generic connector, single row, 1×4 contacts | ![J_01x04_TH](images/footprint)
-J_01x05_TH | Generic connector, single row, 1×5 contacts | ![J_01x05_TH ](images/footprint)
-J_MJ-4PP-9_TH | 4-pin jack, through-hole, TRRS compatible | ![J_MJ-4PP-9_TH](images/footprint)
-J_MJ-4PP-9_TH_Reversible | 4-pin jack, through-hole, Reversible, TRRS compatible | ![J_MJ-4PP-9_TH_Reversible](images/footprint)
+J_01x04_TH | Generic connector, single row, 1×4 contacts | ![J_01x04_TH](images/footprint/connectors/J_01x04_TH.png)
+J_01x05_TH | Generic connector, single row, 1×5 contacts | ![J_01x05_TH](images/footprint/connectors/J_01x05_TH.png)
+J_MJ-4PP-9_TH | 4-pin jack, through-hole, TRRS compatible | ![J_MJ-4PP-9_TH](images/footprint/connectors/J_MJ-4PP-9_TH.png)
+J_MJ-4PP-9_TH_Reversible | 4-pin jack, through-hole, Reversible, TRRS compatible | ![J_MJ-4PP-9_TH_Reversible](images/footprint/connectors/J_MJ-4PP-9_TH_Reversible.png))
 
 ## symbols pretty
 
