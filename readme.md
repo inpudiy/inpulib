@@ -44,14 +44,14 @@ SW_MX_TH_Reversible | MX switch, through hole, reversible | ![SW_MX_TH_Reversibl
 ### MCU
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-U_ProMicro_RP2040_TH | Pro Micro RP2040 board, through hole |
-U_ProMicro_nRF52840_MidMount | Pro Micro nRF52840 board, mid-mount SMD |
-U_ProMicro_nRF52840_SMD | Pro Micro nRF52840 board, SMD |
-U_ProMicro_nRF52840_TH | Pro Micro nRF52840 board, through hole |
-U_ProMicro_nRF52840_TH_Reversible | Pro Micro nRF52840 board, through hole, reversible |
-U_XIAO_nRF52840 | Seeed Studio XIAO nRF52840 board, SMD |
-U_XIAO_nRF52840_Reversible | Seeed Studio XIAO nRF52840 board, SMD, reversible |
-U_Zero_RP2040 | RP2040-Zero board, SMD |
+U_ProMicro_RP2040_TH | Pro Micro RP2040 board, through hole | ![U_ProMicro_RP2040_TH](images/footprint/mcu/U_ProMicro_RP2040_TH.png)
+U_ProMicro_nRF52840_MidMount | Pro Micro nRF52840 board, mid-mount SMD | ![U_ProMicro_nRF52840_MidMount](images/footprint/mcu/U_ProMicro_nRF52840_MidMount.png)
+U_ProMicro_nRF52840_SMD | Pro Micro nRF52840 board, SMD | ![U_ProMicro_nRF52840_SMD](images/footprint/mcu/U_ProMicro_nRF52840_SMD.png)
+U_ProMicro_nRF52840_TH | Pro Micro nRF52840 board, through hole | ![U_ProMicro_nRF52840_TH](images/footprint/mcu/U_ProMicro_nRF52840_TH.png)
+U_ProMicro_nRF52840_TH_Reversible | Pro Micro nRF52840 board, through hole, reversible | ![U_ProMicro_nRF52840_TH_Reversible](images/footprint/mcu/U_ProMicro_nRF52840_TH_Reversible.png)
+U_XIAO_nRF52840 | Seeed Studio XIAO nRF52840 board, SMD | ![U_XIAO_nRF52840](images/footprint/mcu/U_XIAO_nRF52840.png)
+U_XIAO_nRF52840_Reversible | Seeed Studio XIAO nRF52840 board, SMD, reversible | ![U_XIAO_nRF52840_Reversible](images/footprint/mcu/U_XIAO_nRF52840_Reversible.png)
+U_Zero_RP2040 | RP2040-Zero board, SMD | ![U_Zero_RP2040](images/footprint/mcu/U_Zero_RP2040.png)
 
 ### Buttons pretty
 
