@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "MX, through hole, one side")
+	(descr "MX switch, through hole, one side")
 	(property "Reference" "SW"
 		(at 0 8.2804 0)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "MX"
+	(property "Value" ""
 		(at 0 8 0)
 		(layer "F.Fab")
 		(hide yes)

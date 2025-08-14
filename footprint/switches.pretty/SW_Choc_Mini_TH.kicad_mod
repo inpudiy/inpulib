@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Choc Mini, through hole, one side")
+	(descr "Choc Mini switch, through hole, one side")
 	(property "Reference" "SW"
 		(at 0.0254 5.2578 0)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "CPG1232"
+	(property "Value" ""
 		(at 0 8.5 0)
 		(layer "F.Fab")
 		(hide yes)

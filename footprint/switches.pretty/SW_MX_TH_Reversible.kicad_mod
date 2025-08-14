@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "MX, through hole, reversible")
+	(descr "MX switch, through hole, reversible")
 	(property "Reference" "SW"
 		(at 0.0508 8.3312 0)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "MX"
+	(property "Value" ""
 		(at 0 8 0)
 		(layer "F.Fab")
 		(hide yes)

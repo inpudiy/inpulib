@@ -3,14 +3,14 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "KS-27/33, through hole")
+	(descr "KS-27/33 switch, through hole")
 	(property "Reference" "SW"
 		(at 0 8.255 0)
 		(layer "F.Fab")
 		(uuid "052dfe5a-8f38-427a-845a-b769734c7479")
 		(effects
 			(font
-				(size 0.8 0.8)
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)

@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Choc V1/2, through hole, reversible")
+	(descr "Choc V1/V2 switch, through hole, reversible")
 	(property "Reference" "SW"
 		(at 0 8.2042 0)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Choc V1/2"
+	(property "Value" ""
 		(at 0 9 0)
 		(layer "F.Fab")
 		(hide yes)

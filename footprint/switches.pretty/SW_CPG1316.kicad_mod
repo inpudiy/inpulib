@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "CPG1316, smd, one side")
+	(descr "CPG1316 switch, SMD, one side")
 	(property "Reference" "SW"
 		(at 0 7.2136 0)
 		(unlocked yes)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" ""
+	(property "Value" "Val**"
 		(at 0 9 0)
 		(unlocked yes)
 		(layer "F.Fab")

@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SPDT, SMD, 7 pin, 6.6x2.7x1.4 mm")
+	(descr "SPDT slide switch, SMD, 7 pins, 6.6×2.7×1.4 mm")
 	(property "Reference" "SW"
 		(at 0 -3.175 0)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "MSK12C0"
+	(property "Value" ""
 		(at 0 4.357 0)
 		(layer "F.Fab")
 		(hide yes)

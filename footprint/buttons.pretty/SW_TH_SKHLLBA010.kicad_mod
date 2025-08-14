@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SPDT, through hole, horizontal, 3 pin, 7.3x3.6x4.3 mm")
+	(descr "SPDT slide switch, through hole, horizontal, 3 pins, 7.3×3.6×4.3 mm")
 	(property "Reference" "SW"
 		(at -0.014967 -3.132 0)
 		(layer "F.Fab")

@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Choc V1/2, hot-swap, one side")
+	(descr "Choc V1/V2 switch, hot-swap, one side")
 	(property "Reference" "SW"
 		(at 0 8.4582 0)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Choc V1/2"
+	(property "Value" ""
 		(at 0 8.255 0)
 		(layer "F.Fab")
 		(hide yes)

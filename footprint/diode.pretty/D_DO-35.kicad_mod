@@ -3,6 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "General-purpose diode, DO-35 package, through-hole mounting")
 	(property "Reference" "D"
 		(at 2.54 -2.326371 0)
 		(layer "F.Fab")
@@ -14,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "DO-35"
+	(property "Value" ""
 		(at 2.54 2.326371 0)
 		(layer "F.Fab")
 		(hide yes)

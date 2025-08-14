@@ -3,6 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "Pro Micro nRF52840 board, mid-mount, through hole")
 	(property "Reference" "U"
 		(at 0 0.28 0)
 		(layer "F.Fab")
@@ -10,7 +11,7 @@
 		(uuid "01b95ee8-1f5c-4a7d-bb24-cca4b2377f86")
 		(effects
 			(font
-				(size 1.27 1.524)
+				(size 1 1)
 				(thickness 0.2032)
 			)
 		)
@@ -22,7 +23,7 @@
 		(uuid "d5e052b7-54b3-4e01-ad11-90580e829a80")
 		(effects
 			(font
-				(size 1.27 1.524)
+				(size 1 1)
 				(thickness 0.2032)
 			)
 		)

@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "SPST, SMD, 4 pin, 3.5x4.7x1.6 mm")
+	(descr "SPST tactile switch, SMD, 4 pins, 3.5×4.7×1.6 mm")
 	(property "Reference" "SW"
 		(at 0 -2.9464 0)
 		(unlocked yes)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "TS-1289VE-4"
+	(property "Value" ""
 		(at 0 -3.8 0)
 		(unlocked yes)
 		(layer "F.Fab")

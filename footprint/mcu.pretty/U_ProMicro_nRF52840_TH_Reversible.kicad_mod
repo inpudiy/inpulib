@@ -3,6 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "Pro Micro nRF52840 board, through hole, reversible")
 	(property "Reference" "U"
 		(at 0 0.28 0)
 		(layer "F.Fab")

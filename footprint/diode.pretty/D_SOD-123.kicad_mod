@@ -3,6 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "General-purpose diode, SOD-123 package, SMD mounting")
 	(property "Reference" "D"
 		(at 0 -2 0)
 		(layer "F.Fab")

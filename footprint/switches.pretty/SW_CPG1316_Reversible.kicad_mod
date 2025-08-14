@@ -3,9 +3,9 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "CPG1316, smd, reversible")
+	(descr "CPG1316 switch, SMD, reversible")
 	(property "Reference" "SW"
-		(at 0 0.5 0)
+		(at 0.075 7.25 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "6f27b7c4-f2c9-410c-80fe-ed0f1ba7631f")

@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Hi-Tek 725, through hole")
+	(descr "Hi-Tek 725 switch, through hole")
 	(property "Reference" "SW"
 		(at 0 8.1534 180)
 		(layer "F.Fab")
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "Hi-Tek 725"
+	(property "Value" ""
 		(at -4.8 8.3 180)
 		(layer "F.Fab")
 		(hide yes)

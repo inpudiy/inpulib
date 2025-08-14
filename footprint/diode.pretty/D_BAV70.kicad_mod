@@ -3,13 +3,14 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
+	(descr "Double switching diode BAV70, SOT-23 package")
 	(property "Reference" "D"
 		(at 0.032 -2.4064 0)
 		(layer "F.Fab")
 		(uuid "6cb0dfd7-dde9-4360-8da2-146183f67654")
 		(effects
 			(font
-				(size 0.64 0.64)
+				(size 1 1)
 				(thickness 0.15)
 			)
 		)
