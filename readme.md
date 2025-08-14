@@ -80,7 +80,7 @@ IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, SMD |
 
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-Conn_01x04 | Generic connector, single row, 1×4 contacts |
+Conn_01x04 | Generic connector, single row, 1×4 contacts | ![Conn_01x04](images/symbols/Conn_01x04.svg)
 Conn_01x05 | Generic connector, single row, 1×5 contacts |
 D_1N4448 | High-speed switching diode 1N4448, DO-35 package, through hole, 100 V, 0.15 A |
 D_1N4448W | High-speed switching diode 1N4448W, SOD-123 package, SMD, 100 V, 0.15 A |
