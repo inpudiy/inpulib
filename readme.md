@@ -80,24 +80,24 @@ IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, SMD |
 
 Name   | Description/notes| Preview  |
 ------------------------|--------------------------------------------|-------------------------------
-Conn_01x04 | Generic connector, single row, 1×4 contacts | ![Conn_01x04](images/symbols/Conn_01x04.svg)
-Conn_01x05 | Generic connector, single row, 1×5 contacts |
-D_1N4448 | High-speed switching diode 1N4448, DO-35 package, through hole, 100 V, 0.15 A |
-D_1N4448W | High-speed switching diode 1N4448W, SOD-123 package, SMD, 100 V, 0.15 A |
-D_1N4448WS | Fast switching diode 1N4448WS, SOD-323 package, SMD, 75 V, 0.15 A |
-D_BAV70 | Dual switching diode BAV70, SOT-23 package, SMD, 80 V, 100 nA, Tr=10 ns |
-GND | Global ground reference symbol |
-PWR_FLAG | Power source flag for ERC (schematic annotation) |
-IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, 5-line transient voltage suppressor |
-D_Generic | Generic LED, 2-pin, through hole or SMD |
-D_SK6812MINI-E | Addressable RGB LED SK6812MINI-E, 3.2×2.8×1.78 mm package |
-J_MJ-4PP-9 | 4-pin stereo audio jack MJ-4PP-9, TRRS compatible |
-R_Generic | Generic resistor, 2-pin, through hole or SMD |
-SW_Encoder_EC11 | Rotary encoder EC11, through hole, 5 pins, with push button |
-SW_Push | Momentary push button, 2 pins, generic footprint |
-SW_Push_45deg | Momentary push button, 2 pins, 45° rotated |
-SW_SPDT | SPDT switch (single pole double throw) |
-U_ProMicro_nRF52840 | Pro Micro nRF52840 microcontroller board symbol |
-U_ProMicro_RP2040 | Pro Micro RP2040 microcontroller board symbol |
-U_XIAO_nRF52840 | Seeed Studio XIAO nRF52840 microcontroller board symbol |
-U_Zero_RP2040 | RP2040-Zero microcontroller board symbol |
+Conn_01x04 | Generic connector, single row, 1×4 contacts | ![Conn_01x04](images/symbols/Conn_01x04.png)
+Conn_01x05 | Generic connector, single row, 1×5 contacts | ![Conn_01x05](images/symbols/Conn_01x05.png)
+D_1N4448 | High-speed switching diode 1N4448, DO-35 package, through hole, 100 V, 0.15 A | ![D_1N4448](images/symbols/D_1N4448.png)
+D_1N4448W | High-speed switching diode 1N4448W, SOD-123 package, SMD, 100 V, 0.15 A | ![D_1N4448W](images/symbols/D_1N4448W.png)
+D_1N4448WS | Fast switching diode 1N4448WS, SOD-323 package, SMD, 75 V, 0.15 A | ![D_1N4448WS](images/symbols/D_1N4448WS.png)
+D_BAV70 | Dual switching diode BAV70, SOT-23 package, SMD, 80 V, 100 nA, Tr=10 ns | ![D_BAV70](images/symbols/D_BAV70.png)
+GND | Global ground reference symbol | ![GND](images/symbols/GND.png)
+PWR_FLAG | Power source flag for ERC (schematic annotation) | ![PWR_FLAG](images/symbols/PWR_FLAG.png)
+IC_SMF05CT1G | TVS diode array SMF05CT1G, SOT-23-6 package, 5-line transient voltage suppressor | ![IC_SMF05CT1G](images/symbols/IC_SMF05CT1G.png)
+D_Generic | Generic LED, 2-pin, through hole or SMD | ![D_Generic](images/symbols/D_Generic.png)
+D_SK6812MINI-E | Addressable RGB LED SK6812MINI-E, 3.2×2.8×1.78 mm package | ![D_SK6812MINI-E](images/symbols/D_SK6812MINI-E.png)
+J_MJ-4PP-9 | 4-pin stereo audio jack MJ-4PP-9, TRRS compatible | ![J_MJ-4PP-9](images/symbols/J_MJ-4PP-9.png)
+R_Generic | Generic resistor, 2-pin, through hole or SMD | ![R_Generic](images/symbols/R_Generic.png)
+SW_Encoder_EC11 | Rotary encoder EC11, through hole, 5 pins, with push button | ![SW_Encoder_EC11](images/symbols/SW_Encoder_EC11.png)
+SW_Push | Momentary push button, 2 pins, generic footprint | ![SW_Push](images/symbols/SW_Push.png)
+SW_Push_45deg | Momentary push button, 2 pins, 45° rotated | ![SW_Push_45deg](images/symbols/SW_Push_45deg.png)
+SW_SPDT | SPDT switch (single pole double throw) | ![SW_SPDT](images/symbols/SW_SPDT.png)
+U_ProMicro_nRF52840 | Pro Micro nRF52840 microcontroller board symbol | ![U_ProMicro_nRF52840](images/symbols/U_ProMicro_nRF52840.png)
+U_ProMicro_RP2040 | Pro Micro RP2040 microcontroller board symbol | ![U_ProMicro_RP2040](images/symbols/U_ProMicro_RP2040.png)
+U_XIAO_nRF52840 | Seeed Studio XIAO nRF52840 microcontroller board symbol | ![U_XIAO_nRF52840](images/symbols/U_XIAO_nRF52840.png)
+U_Zero_RP2040 | RP2040-Zero microcontroller board symbol | ![U_Zero_RP2040](images/symbols/U_Zero_RP2040.png)
