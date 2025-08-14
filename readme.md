@@ -8,11 +8,10 @@ It provides a complete set of **schematic symbols** and **footprint libraries** 
 The library covers the most commonly used components in keyboard design:
 
 * **Switches** – MX, Kailh Choc, Alps, and other profiles
-* **Momentary buttons, rotary encoders, and toggle switches** – for matrix inputs, settings, and on/off control
+* **Momentary buttons, rotary encoders, and toggle switches** – for reset inputs, and on/off control
 * **Controllers** – Pro Micro and other compatible boards
-* **Connectors** – for OLED displays, battery connections, TRRS/Audio jacks, and other peripherals
+* **Connectors** – for displays, battery connections, TRRS/Audio jacks
 * **Diodes** – standard components for matrix wiring
-* **LEDs** – including generic and addressable RGB
 
 With these libraries, you can quickly integrate standard parts into your schematic and PCB layout, saving time and ensuring compatibility with popular keyboard components. 
 
