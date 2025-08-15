@@ -1,9 +1,9 @@
-(footprint "SW_CPG1316"
+(footprint "SW_PG1316"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "CPG1316 switch, SMD, one side")
+	(descr "PG1316 switch, SMD, one side")
 	(property "Reference" "SW"
 		(at 0 7.2136 0)
 		(unlocked yes)
@@ -12,7 +12,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -95,7 +95,7 @@
 		(end 8 -8)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
