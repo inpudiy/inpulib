@@ -631,19 +631,19 @@
 		(uuid "e70ef9d6-afbe-4ba9-85f5-ad707dc1ecc3")
 	)
 	(fp_rect
-		(start -4.553701 -16.649892)
-		(end 4.553997 -17.112661)
+		(start -4.553849 -16.281609)
+		(end 4.553849 -17.131609)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
 		(uuid "b2a33972-c3ba-4fc0-a258-6b8b3e3d8e9c")
 	)
 	(fp_rect
-		(start 8.9 -16.65)
-		(end -8.9 16.65)
+		(start 8.9 -16.281609)
+		(end -8.9 16.718391)
 		(stroke
 			(width 0.1)
 			(type solid)
