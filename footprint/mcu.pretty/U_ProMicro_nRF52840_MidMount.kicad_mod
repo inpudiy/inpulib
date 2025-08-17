@@ -55,8 +55,8 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -4.553849 -16.280804)
-		(end 4.553849 -17.140804)
+		(start -4.475 -16.381)
+		(end 4.475 -17.241)
 		(stroke
 			(width 0.1)
 			(type solid)

@@ -161,7 +161,7 @@
 		(uuid "f826a543-33f3-4940-aa71-eae2ebdd2a5e")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/PG1316S--装配体.STEP"
+	(model "/home/miwayho/kicad/inpulib/step/switches/PG1316S.STEP"
 		(offset
 			(xyz -4.75 -6.25 -10.25)
 		)
