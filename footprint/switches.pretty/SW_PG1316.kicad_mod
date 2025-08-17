@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "PG1316 switch, SMD, one side")
 	(property "Reference" "SW"
-		(at 0 7.2136 0)
+		(at -0.01 7.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "ad62f3be-e718-4e89-881e-b73cd7290d03")
@@ -91,8 +91,8 @@
 		(uuid "373791d6-d4ce-4646-8332-c971122dd698")
 	)
 	(fp_rect
-		(start -8 8)
-		(end 8 -8)
+		(start -8.475 8.475)
+		(end 8.475 -8.475)
 		(stroke
 			(width 0.1)
 			(type solid)

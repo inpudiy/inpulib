@@ -66,15 +66,15 @@
 		(uuid "b2a33972-c3ba-4fc0-a258-6b8b3e3d8e9c")
 	)
 	(fp_rect
-		(start 9.15 -16.65)
-		(end -9.15 16.65)
+		(start 8.9 -16.65)
+		(end -8.9 16.65)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "13ef79dd-826b-454c-94a6-48a397b7afb6")
+		(uuid "5c92ef22-413d-46f7-9cdb-4bc7808ae410")
 	)
 	(pad "1" thru_hole circle
 		(at -7.63246 -12.481609 90)
