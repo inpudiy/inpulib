@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" ""
+	(property "Value" "Val**"
 		(at 0 9 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -92,13 +92,12 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "c3fcf610-626f-4844-a430-3a8013d2a309")
 	)
-	(pad "" thru_hole circle
-		(at -5 5.15)
-		(size 2.6 2.6)
-		(drill 1.6)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "8122fe6b-27a3-4a16-b298-ff59dd85c486")
+	(pad "" np_thru_hole oval
+		(at -5 5.15 270)
+		(size 2 1.5)
+		(drill oval 2 1.6)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "629832ab-5930-4090-b4ff-3e6ee9611e38")
 	)
 	(pad "" np_thru_hole circle
 		(at 0 0)
@@ -107,13 +106,19 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "867e82fa-a5a9-4dd5-8e3c-0d445ad21694")
 	)
-	(pad "" thru_hole circle
-		(at 5 5.15)
-		(size 2.6 2.6)
-		(drill 1.6)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 5.05 5.05)
+		(drill 5.05)
 		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "4589845c-0706-4ded-94cb-fa62b828b5d6")
+		(uuid "da2b6583-9712-4b87-82c3-a22a07d2989f")
+	)
+	(pad "" np_thru_hole oval
+		(at 5 5.15 90)
+		(size 2 1.5)
+		(drill oval 2 1.6)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "9e7984b0-cc3e-4e03-a756-d256e9f6bd01")
 	)
 	(pad "" np_thru_hole circle
 		(at 5.5 0)
