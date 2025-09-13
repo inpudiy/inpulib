@@ -1,4 +1,4 @@
-(footprint "SW_SMD_TS-1289VE-4"
+(footprint "TS-1289VE-4"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" ""
+	(property "Value" "Val**"
 		(at 0 -3.8 0)
 		(unlocked yes)
 		(layer "F.Fab")
