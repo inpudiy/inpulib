@@ -438,7 +438,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
 		(property "Value" ""
@@ -480,6 +479,17 @@
 			)
 		)
 		(symbol "D_BAV70_0_0"
+			(rectangle
+				(start -5.08 5.08)
+				(end 5.08 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
 			(polyline
 				(pts
 					(xy -5.08 2.54) (xy -2.54 2.54)
@@ -502,17 +512,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(rectangle
-				(start -5.08 -5.08)
-				(end 5.08 5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
 				)
 			)
 			(polyline
