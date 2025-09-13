@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "4-pin jack, through-hole, Reversible, TRRS compatible")
 	(property "Reference" "J"
-		(at 0 5.75 180)
+		(at 0 0 180)
 		(layer "F.Fab")
 		(uuid "3800800e-6027-44f7-8ca5-187d7c177f65")
 		(effects
@@ -52,92 +52,55 @@
 		)
 	)
 	(attr through_hole)
-	(fp_line
-		(start -3.05 0)
-		(end 3.05 0)
+	(fp_rect
+		(start -3.23 -7.93)
+		(end 3.23 7.03)
 		(stroke
-			(width 0.15)
-			(type solid)
+			(width 0.05)
+			(type default)
 		)
-		(layer "Eco1.User")
-		(uuid "a4de51d0-7dab-4fb9-bd92-515829d6de6e")
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a4a0a0db-f656-4be4-8d48-a8561c855df6")
 	)
-	(fp_line
-		(start -3.05 12.1)
-		(end -3.05 0)
+	(fp_rect
+		(start -3.05 -5.75)
+		(end 3.05 6.35)
 		(stroke
-			(width 0.15)
+			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco1.User")
-		(uuid "86922d3d-2adf-43ff-b70a-0277c419599a")
+		(fill no)
+		(layer "F.Fab")
+		(uuid "78aa08ad-ece0-46e0-84cb-81a6b75fd9c8")
 	)
-	(fp_line
-		(start -2.5 -2)
-		(end -2.5 0)
+	(fp_rect
+		(start -2.5 -7.75)
+		(end 2.5 -5.75)
 		(stroke
-			(width 0.15)
+			(width 0.1)
 			(type solid)
 		)
-		(layer "Eco1.User")
-		(uuid "63272ec7-f5ef-4ab0-aa79-717336a3700b")
-	)
-	(fp_line
-		(start -2.5 -2)
-		(end 2.5 -2)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "b23e1df1-a330-4b17-b307-243872bdcea6")
-	)
-	(fp_line
-		(start 2.5 -2)
-		(end 2.5 0)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "a6af694a-f6fd-42cb-9893-5aa9c01a0405")
-	)
-	(fp_line
-		(start 3.05 0)
-		(end 3.05 12.1)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "2f138eae-fd6b-4cfb-aafe-b4d797f40943")
-	)
-	(fp_line
-		(start 3.05 12.1)
-		(end -3.05 12.1)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "Eco1.User")
-		(uuid "5c787219-6568-4b93-8db6-a4992eb6b1a7")
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5772c442-41c0-4bff-915e-36e16d0091a7")
 	)
 	(pad "" np_thru_hole circle
-		(at 0 1.6)
+		(at 0 -4.15)
 		(size 1.2 1.2)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(uuid "3a83ab2d-8bcf-4db3-9337-f3354c1bd88f")
 	)
 	(pad "" np_thru_hole circle
-		(at 0 8.6)
+		(at 0 2.85)
 		(size 1.2 1.2)
 		(drill 1.2)
 		(layers "*.Cu" "*.Mask")
 		(uuid "4c16ba78-aa4c-46a4-83b1-c34d972d3e92")
 	)
 	(pad "R1" thru_hole oval
-		(at -2.3 6.2)
+		(at -2.3 0.45)
 		(size 1.6 2.2)
 		(drill oval 0.9 1.5)
 		(layers "*.Cu" "*.Mask")
@@ -145,7 +108,7 @@
 		(uuid "defcbb3f-4771-42d5-9c45-76028c9cabe1")
 	)
 	(pad "R1" thru_hole oval
-		(at 2.3 6.2)
+		(at 2.3 0.45)
 		(size 1.6 2.2)
 		(drill oval 0.9 1.5)
 		(layers "*.Cu" "*.Mask")
@@ -153,7 +116,7 @@
 		(uuid "b71b9569-8af8-412b-a526-d702a405f922")
 	)
 	(pad "R2" thru_hole oval
-		(at -2.3 3.2)
+		(at -2.3 -2.55)
 		(size 1.6 2.2)
 		(drill oval 0.9 1.5)
 		(layers "*.Cu" "*.Mask")
@@ -161,7 +124,7 @@
 		(uuid "0ac1b7d2-c26d-4624-8273-62fcad5d1dab")
 	)
 	(pad "R2" thru_hole oval
-		(at 2.3 3.2)
+		(at 2.3 -2.55)
 		(size 1.6 2.2)
 		(drill oval 0.9 1.5)
 		(layers "*.Cu" "*.Mask")
@@ -169,7 +132,7 @@
 		(uuid "0cbfb81b-6341-4579-8039-ef59d235f216")
 	)
 	(pad "S" thru_hole oval
-		(at -2.3 11.45)
+		(at -2.3 5.7)
 		(size 1.6 2.5)
 		(drill oval 0.9 1.8)
 		(layers "*.Cu" "*.Mask")
@@ -177,7 +140,7 @@
 		(uuid "94a40fcd-7385-42aa-ac27-426a792a7a2a")
 	)
 	(pad "S" thru_hole oval
-		(at 2.3 11.45)
+		(at 2.3 5.7)
 		(size 1.6 2.5)
 		(drill oval 0.9 1.8)
 		(layers "*.Cu" "*.Mask")
@@ -185,7 +148,7 @@
 		(uuid "72ba708c-8fbb-40a5-98b3-d91168b72b3e")
 	)
 	(pad "T" thru_hole oval
-		(at -2.3 10.35)
+		(at -2.3 4.6)
 		(size 1.6 2.5)
 		(drill oval 0.9 1.8)
 		(layers "*.Cu" "*.Mask")
@@ -193,7 +156,7 @@
 		(uuid "8b6ab947-cf58-4916-8ed2-b01896ac1b76")
 	)
 	(pad "T" thru_hole oval
-		(at 2.3 10.35)
+		(at 2.3 4.6)
 		(size 1.6 2.5)
 		(drill oval 0.9 1.8)
 		(layers "*.Cu" "*.Mask")
