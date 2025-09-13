@@ -1,4 +1,4 @@
-(footprint "U_ProMicro_nRF52840_TH_Reversible"
+(footprint "nRF52840_ProMicro_TH_Reversible"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -631,26 +631,26 @@
 		(uuid "e70ef9d6-afbe-4ba9-85f5-ad707dc1ecc3")
 	)
 	(fp_rect
-		(start -4.477 -16.381)
-		(end 4.473 -17.231)
+		(start -4.475 -16.600196)
+		(end 4.475 -17.460196)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "b2a33972-c3ba-4fc0-a258-6b8b3e3d8e9c")
+		(uuid "a9eef5a2-ccc4-447e-88ab-be2ae1c402d2")
 	)
 	(fp_rect
-		(start 8.9 -16.281609)
-		(end -8.9 16.718391)
+		(start 8.9 -16.5)
+		(end -8.9 16.5)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "f76cd84b-29c7-4065-a60d-0050d13bf444")
+		(uuid "2158b3d7-76f0-4206-b279-4e3b5bb9dfe9")
 	)
 	(pad "" thru_hole circle
 		(at -7.63246 -12.481609 90)

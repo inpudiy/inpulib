@@ -1,4 +1,4 @@
-(footprint "U_Zero_RP2040"
+(footprint "RP2040-Zero"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Val**"
+	(property "Value" "RP2040-Zero"
 		(at 10.16 -11.827 0)
 		(unlocked yes)
 		(layer "F.Fab")

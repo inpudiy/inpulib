@@ -458,7 +458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode:D_SOD-323"
+		(property "Footprint" ""
 			(at 0 -4.445 0)
 			(effects
 				(font

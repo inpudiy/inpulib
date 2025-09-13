@@ -1,4 +1,4 @@
-(footprint "U_ProMicro_nRF52840_SMD"
+(footprint "nRF52840_ProMicro_SMD"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -55,26 +55,26 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -4.476 -16.381)
-		(end 4.474 -17.231)
+		(start -4.475 -16.600196)
+		(end 4.475 -17.460196)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "b2a33972-c3ba-4fc0-a258-6b8b3e3d8e9c")
+		(uuid "1b5d5708-548a-4130-b8a5-dbd6841090dd")
 	)
 	(fp_rect
-		(start 9.15 -16.281609)
-		(end -9.15 16.718391)
+		(start 8.9 -16.5)
+		(end -8.9 16.5)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "13ef79dd-826b-454c-94a6-48a397b7afb6")
+		(uuid "9c9e357d-74f5-4592-8a32-ab3dffc149f8")
 	)
 	(pad "1" smd circle
 		(at -7.63246 -12.481609 90)

@@ -1,4 +1,4 @@
-(footprint "U_ProMicro_RP2040_TH"
+(footprint "RP2040_ProMicro_TH"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -55,26 +55,26 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -8.89 16.5)
-		(end 8.89 -16.5)
+		(start -4.475 -16.600196)
+		(end 4.475 -17.460196)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "42eb9804-e501-46ad-ad2b-cc165f82e2a7")
+		(uuid "05d810ae-1fc5-416f-8fac-34db62d8cef4")
 	)
 	(fp_rect
-		(start -4.5 -10.75)
-		(end 4.5 -17.15)
+		(start 8.9 -16.5)
+		(end -8.9 16.5)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "69b83113-b667-48b1-9df9-418c05d8f6bd")
+		(uuid "e74177d3-d2ed-42a1-8f38-59e0418c527a")
 	)
 	(pad "0" thru_hole circle
 		(at -7.64 -12.7)

@@ -1,4 +1,4 @@
-(footprint "U_ProMicro_nRF52840_MidMount"
+(footprint "nRF52840_ProMicro_MidMount"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")

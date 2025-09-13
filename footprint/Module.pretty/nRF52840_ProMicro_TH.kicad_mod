@@ -1,4 +1,4 @@
-(footprint "U_ProMicro_nRF52840_TH"
+(footprint "nRF52840_ProMicro_TH"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -55,26 +55,26 @@
 	)
 	(attr through_hole)
 	(fp_rect
-		(start -4.476 -16.381)
-		(end 4.474 -17.231)
+		(start -4.475 -16.600196)
+		(end 4.475 -17.460196)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "b2a33972-c3ba-4fc0-a258-6b8b3e3d8e9c")
+		(uuid "e81a24bc-b428-4c46-9719-0dacb0fa85e3")
 	)
 	(fp_rect
-		(start 8.9 -16.281609)
-		(end -8.9 16.718391)
+		(start 8.9 -16.5)
+		(end -8.9 16.5)
 		(stroke
 			(width 0.1)
 			(type solid)
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "5c92ef22-413d-46f7-9cdb-4bc7808ae410")
+		(uuid "fb7a7af1-5ccc-41bf-a755-8a35de91ccc7")
 	)
 	(pad "1" thru_hole circle
 		(at -7.63246 -12.481609 90)

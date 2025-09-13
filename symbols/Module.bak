@@ -3347,7 +3347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "nRF52840 microcontroller Pro Micro board"
 			(at 0.508 -22.098 0)
 			(effects
 				(font

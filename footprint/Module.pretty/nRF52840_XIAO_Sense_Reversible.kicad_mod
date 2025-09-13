@@ -1,9 +1,9 @@
-(footprint "U_XIAO_nRF52840_Reversible"
+(footprint "nRF52840_XIAO_Sense_Reversible"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(descr "Seeed Studio XIAO nRF52840 board, SMD, reversible")
+	(descr "Seeed Studio XIAO nRF52840 board, сastellated mounting, reversible")
 	(property "Reference" "U"
 		(at 0 10.5 0)
 		(unlocked yes)
