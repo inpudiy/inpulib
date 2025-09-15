@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SPDT slide switch, through hole, horizontal, 3 pins, 10×2.5×5.9 mm")
-	(property "Reference" "SW"
+	(property "Reference" "REF**"
 		(at -0.0635 -4.7714 0)
 		(layer "F.Fab")
 		(uuid "d6b40946-a4a6-4d4f-98c1-e7be4224186b")

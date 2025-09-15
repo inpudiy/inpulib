@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Rotary encoder EC11E, through hole, with push button")
-	(property "Reference" "SW"
+	(property "Reference" "REF**"
 		(at 4.24 4.6 0)
 		(layer "F.Fab")
 		(uuid "bd05a9f0-8958-4f2b-a7a1-2d15f4801580")

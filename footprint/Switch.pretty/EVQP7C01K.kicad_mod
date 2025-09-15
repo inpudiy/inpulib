@@ -4,14 +4,14 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SPST tactile switch, SMD, 4 pins, 3.5×2.9×1.35 mm")
-	(property "Reference" "SW"
+	(property "Reference" "REF**"
 		(at 0 -2.6924 0)
 		(layer "F.Fab")
 		(uuid "e737a9f8-b34f-4806-b0ba-f6d02ab5ff9b")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.25)
+				(thickness 0.15)
 			)
 		)
 	)

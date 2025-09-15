@@ -1,11 +1,11 @@
-(footprint "XKB_U262-16XN-4BVC11"
+(footprint "USB_C_Receptacle_XKB_U262-16XN-4BVC11"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "USB Type C, right-angle, SMT")
 	(property "Reference" "REF**"
-		(at 0 -5.715 0)
+		(at 0.02 0 0)
 		(layer "F.SilkS")
 		(uuid "a432b3eb-92f8-4746-aff4-7ac94a8dcf05")
 		(effects
@@ -15,7 +15,7 @@
 			)
 		)
 	)
-	(property "Value" "XKB_U262-16XN-4BVC11"
+	(property "Value" "U262-16XN-4BVC11"
 		(at 0 4.935 0)
 		(layer "F.Fab")
 		(uuid "cd301a04-be52-4bc1-963f-69790b266d55")
@@ -57,7 +57,7 @@
 		(start -4.58 -1.85)
 		(end -4.58 0.07)
 		(stroke
-			(width 0.12)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -67,7 +67,7 @@
 		(start -4.58 3.785)
 		(end -4.58 2.08)
 		(stroke
-			(width 0.12)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -77,7 +77,7 @@
 		(start 4.58 0.07)
 		(end 4.58 -1.85)
 		(stroke
-			(width 0.12)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -87,7 +87,7 @@
 		(start 4.58 2.08)
 		(end 4.58 3.785)
 		(stroke
-			(width 0.12)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
@@ -97,51 +97,22 @@
 		(start 4.58 3.785)
 		(end -4.58 3.785)
 		(stroke
-			(width 0.12)
+			(width 0.15)
 			(type solid)
 		)
 		(layer "F.SilkS")
 		(uuid "33e31502-05f6-4138-872e-a793a51b52d0")
 	)
-	(fp_line
+	(fp_rect
 		(start -5.32 -4.75)
-		(end 5.32 -4.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "9e051379-7f1d-44d0-9345-a45543d447e4")
-	)
-	(fp_line
-		(start -5.32 4.18)
-		(end -5.32 -4.75)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "9c0bbfdb-3dc7-499b-aefe-cd1509d72229")
-	)
-	(fp_line
-		(start 5.32 -4.75)
 		(end 5.32 4.18)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "553101a2-df2e-4179-a908-8c17b467f5f1")
-	)
-	(fp_line
-		(start 5.32 4.18)
-		(end -5.32 4.18)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "b99dad18-feeb-4adb-ab5a-250a9fcc99b2")
+		(uuid "5ff725d1-8385-49fe-b985-5fb57c17f0fd")
 	)
 	(fp_line
 		(start -4.47 -3.675)
